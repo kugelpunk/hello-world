@@ -1,27 +1,17 @@
-# Welcome to GitHub
+## Readme File of the `kugelpunk\kugelpunk.github.io` Repo
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
-
-## Repositories
-
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+### Intro
+This is a GitHub Pages repo for https://kugelpunk.github.io (a username website). This readme file contains mainly content from GitHub, which might help the repo user.
+readme files can be written in plain text, [reStructured Text](https://docutils.sourceforge.io/rst.html) or [Markdown language](https://guides.github.com/features/mastering-markdown/). They should include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
-## Your first website
-
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+### Your first website
+**GitHub Pages** allows to create a website using the code that lives in your GitHub repositories. (Appearantly it simply provides a webserver for your html and its endpoints.) GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 
-## Rename this repository to publish your site
-
+### Rename this repository to publish your site
 We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
 Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
@@ -36,14 +26,12 @@ Once you click **Rename**, your website will automatically be published at: http
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
-## Making your first edit
-
+### Making your first edit
 When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
 
 With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
 
-## Practice: Customize your first GitHub website by writing HTML code
-
+### Practice: Customize your first GitHub website by writing HTML code
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
 Let’s start with this template:
@@ -77,14 +65,12 @@ Once you click `Commit changes`, your changes will automatically be published on
 
 :tada: You just made your first commit! :tada:
 
-## Extra Credit: Keep on building!
-
+### Image Selection
 Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
 
 Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
 
-![octocat](./images/create-octocat.png)
+![future-image](./images/kugelpunk-image.png)
 
-## Everything you need to know about GitHub
-
+### Everything About GitHub
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
