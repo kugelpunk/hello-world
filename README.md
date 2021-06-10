@@ -6,52 +6,30 @@ readme files can be written in plain text, [reStructured Text](https://docutils.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
-### Your first website
-**GitHub Pages** allows to create a website using the code that lives in your GitHub repositories. (Appearantly it simply provides a webserver for your html and its endpoints.) GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+### GitHub Pages
+GitHub Pages allows to create a website using the code that lives in your GitHub repositories. (Appearantly it simply provides a webserver for your HTML and its endpoints.) GitHub Pages is automatically enabled in this repository, but when creating new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
 [Learn more about GitHub Pages](https://pages.github.com/)
 
-### Rename this repository to publish your site
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+### How to Publish the Website
+We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address.
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
+To get started:
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
+Under the **Repository Name** heading, type: `kugelpunk.github.io`.
 <img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+Once you click **Rename**, your website will automatically be published at: https://kugelpunk.github.io/. The file—called `index.html`—is rendered as the home page.
 
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-### Making your first edit
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-### Practice: Customize your first GitHub website by writing HTML code
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
+### Practice: Customize your first GitHub website
 Let’s start with this template:
 
 ```
 <p>Hello World! I’m [username]. This is my website!</p>
 ```
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
+Paste the template to line 15 and fill in the blanks.
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
